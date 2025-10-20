@@ -12,6 +12,14 @@
 
 ---
 
+### Currently
+- Publishing technical writeups on CVE discoveries
+- Security research in web applications and LMS platforms
+- Final semester at Muhammad Ali Jinnah University (3.98 CGPA)
+- Open to security researcher/pentester opportunities (remote/international)
+
+---
+
 ### Vulnerability Research Highlights
 | Platform | CVE IDs | Type |
 |-----------|----------|------|
