@@ -32,6 +32,12 @@
 
 ---
 
+### Writeups
+
+1. [CVE-2025-10763 - File Upload To RCE Academico](https://khanmarshai.github.io/posts/academico_writeup)
+
+---
+
 ### Security Projects
 - **[SecureSys](https://github.com/KhanMarshaI/vuln_app)** – Flask-based Vulnerability Assessment Platform with XSS and SQLi labs.  
 - **Yarghamal** – C-based File Encryption & Monitoring system using secure client-server key exchange.  
