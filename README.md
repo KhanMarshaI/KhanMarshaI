@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Taha Khan</h1>
-<h3 align="center">Vulnerability Researcher • Web Exploitation • Secure Development</h3>
+<h3 align="center">Security Researcher • Web Exploitation • Secure Development</h3>
 
 ---
 
@@ -25,10 +25,9 @@
 |-----------|----------|------|
 | **Mentingo LMS** | CVE-2025-10388, 10741, 10755 | XSS, File Upload, Restriction Bypass |
 | **Academico** | CVE-2025-10763 | File Upload → RCE |
-| **Vvveb CMS** | CVE-2025-11026–11029 | Info Disclosure, CSRF, File Upload to RCE |
+| **Vvveb CMS (with Hamed Kohi)** | CVE-2025-11026–11029 | Info Disclosure, CSRF, File Upload to RCE |
 | **Frappe LMS (with Hamed Kohi)** | CVE-2025-11280–11283 | Privilege Escalation & Access Control |
-
-> 4 additional CVEs currently under review.
+| **learnhouse** | CVE-2025-12268, CVE-2025-12269, CVE-2025-12270, CVE-2025-12276 | Client-Side Enforcement of Server-Side Security, Unrestricted Upload, Insecure Direct Object Reference, Info Disclosure |
 
 ---
 
