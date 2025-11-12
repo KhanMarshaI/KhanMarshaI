@@ -14,8 +14,8 @@
 
 ### Currently
 - Publishing technical writeups on CVE discoveries
-- Security research in web applications and LMS platforms
-- Final semester at Muhammad Ali Jinnah University (3.98 CGPA)
+- Security research in web applications and open-source platforms
+- Sixth semester at Muhammad Ali Jinnah University
 - Open to security researcher/pentester opportunities (remote/international)
 
 ---
