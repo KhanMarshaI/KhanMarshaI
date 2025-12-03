@@ -5,7 +5,7 @@
 
 ### About Me
 - Cybersecurity researcher focused on **vulnerability discovery, exploitation, and secure development**.  
-- Credited with **12+ CVEs**, including **RCE** and **File Upload Bypass** vulnerabilities across open-source platforms.  
+- Credited with **16+ CVEs**, including **RCE** and **File Upload Bypass** vulnerabilities across open-source platforms.  
 - Ranked **Top 10** in HackTheBox Pakistan with expertise in web, privilege escalation, and active directory machines.  
 - Strong foundation in **Python-based security tooling**, exploit development, and Linux administration.  
 - Author of technical writeups, educational resources, and open-source security research.  
