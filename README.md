@@ -28,6 +28,7 @@
 | **Vvveb CMS (with Hamed Kohi)** | CVE-2025-11026–11029 | Info Disclosure, CSRF, File Upload to RCE |
 | **Frappe LMS (with Hamed Kohi)** | CVE-2025-11280–11283 | Privilege Escalation & Access Control |
 | **learnhouse** | CVE-2025-12268, CVE-2025-12269, CVE-2025-12270, CVE-2025-12276 | Client-Side Enforcement of Server-Side Security, Unrestricted Upload, Insecure Direct Object Reference, Info Disclosure |
+| **OpenCart** | CVE-2025-15116 | Race Condition/TOCTOU |
 
 ---
 
