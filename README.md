@@ -15,8 +15,7 @@
 ### Currently
 - Publishing technical writeups on CVE discoveries
 - Security research in web applications and open-source platforms
-- Sixth semester at Muhammad Ali Jinnah University
-- Open to security researcher/pentester opportunities (remote/international)
+- Seventh semester at Muhammad Ali Jinnah University
 
 ---
 
