@@ -5,7 +5,7 @@
 
 ### About Me
 - Cybersecurity researcher focused on **vulnerability discovery, exploitation, and secure development**.  
-- Credited with **16+ CVEs**, including **RCE** and **File Upload Bypass** vulnerabilities across open-source platforms.  
+- Credited with **18+ CVEs**, including **RCE** and **File Upload Bypass** vulnerabilities across open-source platforms.  
 - Ranked **Top 10** in HackTheBox Pakistan with expertise in web, privilege escalation, and active directory machines.  
 - Strong foundation in **Python-based security tooling**, exploit development, and Linux administration.  
 - Author of technical writeups, educational resources, and open-source security research.  
@@ -22,12 +22,14 @@
 ### Vulnerability Research Highlights
 | Platform | CVE IDs | Type |
 |-----------|----------|------|
-| **Mentingo LMS** | CVE-2025-10388, 10741, 10755 | XSS, File Upload, Restriction Bypass |
+| **Mentingo LMS** | CVE-2025-10388, CVE-2025-10741, CVE-2025-10755 | XSS, File Upload, Restriction Bypass |
 | **Academico** | CVE-2025-10763 | File Upload → RCE |
-| **Vvveb CMS (with Hamed Kohi)** | CVE-2025-11026–11029 | Info Disclosure, CSRF, File Upload to RCE |
-| **Frappe LMS (with Hamed Kohi)** | CVE-2025-11280–11283 | Privilege Escalation & Access Control |
+| **Vvveb CMS (with Hamed Kohi)** | CVE-2025-11026, CVE-2025-11027, CVE-2025-11028, CVE-2025-11029 | Info Disclosure, CSRF, File Upload to RCE |
+| **Frappe LMS (with Hamed Kohi)** | CVE-2025-11280, CVE-2025-11281, CVE-2025-11282, CVE-2025-11283 | Privilege Escalation & Access Control |
 | **learnhouse** | CVE-2025-12268, CVE-2025-12269, CVE-2025-12270, CVE-2025-12276 | Client-Side Enforcement of Server-Side Security, Unrestricted Upload, Insecure Direct Object Reference, Info Disclosure |
 | **OpenCart** | CVE-2025-15116 | Race Condition/TOCTOU |
+| **Grav** | GHSA-w8cg-7jcj-4vv2 | XSS |
+| **Grafana** | CVE-2026-21722, CVE-2026-33375 | BOPLA, DoS |
 
 ---
 
