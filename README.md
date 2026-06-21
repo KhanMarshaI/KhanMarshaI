@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Muhammad Taha Khan</h1>
-<h3 align="center">Security Researcher • Web Exploitation • Secure Development</h3>
+<h3 align="center">Security Researcher • Developer</h3>
 
 ---
 
 ### About Me
 - Cybersecurity researcher focused on **vulnerability discovery, exploitation, and secure development**.  
-- Credited with **18+ CVEs**, including **RCE** and **File Upload Bypass** vulnerabilities across open-source platforms.  
-- Ranked **Top 10** in HackTheBox Pakistan with expertise in web, privilege escalation, and active directory machines.  
-- Strong foundation in **Python-based security tooling**, exploit development, and Linux administration.  
+- Credited with **20+ CVEs**, including **RCE** and **File Upload Bypass** vulnerabilities across open-source platforms.  
+- Ranked **Top 10** consecutively for 12+ weeks in HackTheBox Pakistan with expertise in web, privilege escalation, and active directory machines.  
+- Strong foundation in **Python-based security tooling**, exploit development, and Linux.  
 - Author of technical writeups, educational resources, and open-source security research.  
 
 ---
@@ -29,7 +29,7 @@
 | **learnhouse** | CVE-2025-12268, CVE-2025-12269, CVE-2025-12270, CVE-2025-12276 | Client-Side Enforcement of Server-Side Security, Unrestricted Upload, Insecure Direct Object Reference, Info Disclosure |
 | **OpenCart** | CVE-2025-15116 | Race Condition/TOCTOU |
 | **Grav** | GHSA-w8cg-7jcj-4vv2/CVE-2026-42611 | XSS |
-| **Grafana** | CVE-2026-21722, CVE-2026-33375 | BOPLA, DoS |
+| **Grafana** | CVE-2026-21722, CVE-2026-33375, CVE-2026-33381, CVE-2026-28374 | BOPLA, DoS |
 
 ---
 
