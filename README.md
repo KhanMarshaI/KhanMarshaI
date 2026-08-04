@@ -30,6 +30,7 @@
 | **OpenCart** | CVE-2025-15116 | Race Condition/TOCTOU |
 | **Grav** | GHSA-w8cg-7jcj-4vv2/CVE-2026-42611 | XSS |
 | **Grafana** | CVE-2026-21722, CVE-2026-33375, CVE-2026-33381, CVE-2026-28374 | BOPLA, DoS |
+| **GhostCMS** | CVE-2026-25552 | Rate-Limit Bypass via Header Injection |
 
 ---
 
