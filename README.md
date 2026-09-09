@@ -15,7 +15,7 @@
 ### Currently
 - Publishing technical writeups on CVE discoveries
 - Security research in web applications and open-source platforms
-- Seventh semester at Muhammad Ali Jinnah University
+- Eighth semester at Muhammad Ali Jinnah University
 
 ---
 
