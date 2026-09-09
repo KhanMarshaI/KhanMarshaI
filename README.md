@@ -6,8 +6,8 @@
 ### About Me
 - Cybersecurity researcher focused on **vulnerability discovery, exploitation, and secure development**.  
 - Credited with **20+ CVEs**, including **RCE** and **File Upload Bypass** vulnerabilities across open-source platforms.  
-- Ranked **Top 10** consecutively for 12+ weeks in HackTheBox Pakistan with expertise in web, privilege escalation, and active directory machines.  
-- Strong foundation in **Python-based security tooling**, exploit development, and Linux.  
+- Ranked **Top 10** consecutively for 12+ weeks in HackTheBox Pakistan with focus in web, privilege escalation, and active directory machines.  
+- Really like programming, with a little interest towards driver security research, and exploit development.
 - Author of technical writeups, educational resources, and open-source security research.  
 
 ---
@@ -42,7 +42,7 @@
 ---
 
 ### Security Projects
-- **[SecureSys](https://github.com/KhanMarshaI/vuln_app)** – Flask-based Vulnerability Assessment Platform with XSS and SQLi labs.  
+- **[Marsh_Labs](https://github.com/KhanMarshaI/Marsh_Labs)** – Flask-based web application that demonstrates a vulnerability and expects to be "hacked". Created as a hobby with no vibecoding and document diving.
 - **Yarghamal** – C-based File Encryption & Monitoring system using secure client-server key exchange.  
 - **[Personal Blog](https://khanmarshai.github.io)** – Deep-dive articles on exploitation, and research methodology.
 
