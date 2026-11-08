@@ -29,7 +29,7 @@
 | **learnhouse** | CVE-2025-12268, CVE-2025-12269, CVE-2025-12270, CVE-2025-12276 | Client-Side Enforcement of Server-Side Security, Unrestricted Upload, Insecure Direct Object Reference, Info Disclosure |
 | **OpenCart** | CVE-2025-15116 | Race Condition/TOCTOU |
 | **Grav** | GHSA-w8cg-7jcj-4vv2/CVE-2026-42611 | XSS |
-| **Grafana** | CVE-2026-21722, CVE-2026-33375, CVE-2026-33381, CVE-2026-28374 | BOPLA, DoS |
+| **Grafana** | CVE-2026-21722, CVE-2026-33375, CVE-2026-33381, CVE-2026-28374, CVE-2026-28380, CVE-2026-33378, CVE-2026-42129 | BOPLA, DoS |
 | **GhostCMS** | CVE-2026-25552 | Rate-Limit Bypass via Header Injection |
 | **ConcreteCMS**| CVE-2026-18111 | Vertical Privilege Escalation |
 | **OpenEMR** | CVE-2026-49142 | SQL Injection |
