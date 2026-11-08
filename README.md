@@ -32,7 +32,8 @@
 | **Grafana** | CVE-2026-21722, CVE-2026-33375, CVE-2026-33381, CVE-2026-28374 | BOPLA, DoS |
 | **GhostCMS** | CVE-2026-25552 | Rate-Limit Bypass via Header Injection |
 | **ConcreteCMS**| CVE-2026-18111 | Vertical Privilege Escalation |
-| **OpenEMR** | CVE-2026-49142 | SQL Injection | 
+| **OpenEMR** | CVE-2026-49142 | SQL Injection |
+| **Dify** | CVE-2026-58141 | SSRF Protection Bypass via Remote-Files Endpoints |
 
 ---
 
